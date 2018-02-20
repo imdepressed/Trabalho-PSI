@@ -19,6 +19,6 @@
 			<a style="color: #154c6d;font-weight: bold;" href="registo.html">Registe-se</a>
 		</div>
 	</div>
-	<!-- Mensagem de Alteração o.O -->
+	<!-- Mensagem de Alteração do Cenoura o.O -->
 </body>
 </html>
